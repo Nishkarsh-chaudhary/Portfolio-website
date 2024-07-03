@@ -1,3 +1,6 @@
+import React from 'react';
+
+
 import Contact from "./components/Contact/contact";
 import Footer from "./components/Footer/footer";
 import Intro from "./components/Intro/intro";
